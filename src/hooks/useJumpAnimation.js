@@ -63,6 +63,7 @@ export const useJumpAnimation = () => {
         {
           y: 1,
           duration: 0.5,
+          delay: 0.5,
           ease: Expo.easeIn,
         },
         "<"
